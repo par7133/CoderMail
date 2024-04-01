@@ -1,2 +1,2 @@
-# coder.email
+# codermail.org
 Every coder, an email
