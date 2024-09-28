@@ -102,7 +102,7 @@ window.addEventListener("load", function() {
   setTimeout("setFooterPos()", 1000);
   
   setTimeout("setOriginsPos()", 500);
-  $("#originsDisplay").show();
+  //$("#originsDisplay").show();
   
 }, true);
 
